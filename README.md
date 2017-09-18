@@ -156,7 +156,10 @@ Here I only used hog features on a specific color space.**
 
 **Pipeline Function**
 ---
-Pipe line function `imfunc() ` is applied to the video frames. The link of output video is [here](./output.mp4)
+Pipe line function `imfunc() ` is applied to the video frames. The link of output video is given below.
+
+**[Output Video](./output.mp4)**
+
 The pipe line function pass any kind of exception if raised during any situation. The thresold for heatmap is
 set to 2. It detects all major vehicles very well but there are still many false positives which I can't remove.
 
