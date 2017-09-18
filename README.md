@@ -11,11 +11,10 @@
 * Predict the co-ordinates and draw a bounding box to each vehicles.
 * Now apply the above steps to a video file and draw bounding boxes to each file.
 
-**Hardware an environment specification :**
+**Environment specification :**
 
 * OS used : Ubuntu Linux 16.04 LTS
 * This project is done in python version 3.6.2 .
-* Core Hardware: Intel Core i7-7700HQ 8-core processor with 16 GB DDR4 ram.
 * Don't use python version < 3.6 . The f-string function will not work properly.
 * Scikit learn version used => 0.19.0
 
@@ -23,4 +22,5 @@
 **Reading the datasets and Explore data**:
                  
      1. Read the whole dataset using read_vnv_data() function for training.
-     2. Read the 6 test images given.
+     2. 
+ ![Image 1](./re
